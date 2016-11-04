@@ -99,8 +99,8 @@ def main():
         'Pictures': ['.png', '.jpeg', '.gif', '.jpg', '.bmp', '.svg', '.webp', '.psd', '.tiff'],
         'Archives': ['.rar', '.zip', '.7z', '.gz', '.bz2', '.tar', '.dmg', '.tgz', '.xz', '.iso', '.cpio'],
         'Documents': ['.txt', '.pdf', '.doc', '.docx','.odf', '.xls', '.xlsv', '.xlsx',
-                              '.ppt', '.pptx', '.ppsx', '.odp', '.odt', '.ods', '.md', '.json', '.csv'],
-        'Books': ['.mobi', '.epub', '.chm'],
+                              '.ppt', '.pptx', '.ppsx', '.odp', '.odt', '.ods', '.md', '.json', '.csv', '.rtf'],
+        'Books': ['.mobi', '.epub', '.chm', '.fb2'],
         'DEBPackages': ['.deb'],
         'Programs': ['.exe', '.msi'],
         'RPMPackages': ['.rpm']
